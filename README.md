@@ -1,2 +1,0 @@
-# Angular_CRUD_Solvencia
-Angular_CRUD_Solvencia
